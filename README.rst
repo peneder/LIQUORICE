@@ -53,6 +53,7 @@ You can find the instructions for setting up the appropriate conda environment `
 **We are currently working on a new, improved version of LIQUORICE.** It will be available shortly and will have several advantages over the previous version:
 
 - Installation via ``conda`` for easy dependency management
+- Extensive documentation
 - Run directly from mapped bam files, other input data generation steps are now integrated into the tool
 - Shorter runtime and more efficient parallelization
 - Includes a well-documented python package, allowing convenient modification and re-use of parts of the workflow
