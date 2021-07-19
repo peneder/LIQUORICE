@@ -1,4 +1,4 @@
-.. image:: img/liquorice_logo.png
+.. image:: img/liquorice_logo_fitted.png
   :width: 300
   :alt: LIQUORICE logo 
 
