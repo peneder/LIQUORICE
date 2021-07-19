@@ -63,8 +63,6 @@ We are currently still optimizing some parameters, other than that the new versi
 
 Here are a few examples of ``LIQUORICE``'s output:
 
-<img src='img/bias_correction_example.png' width='25'>
-
 .. image:: img/bias_correction_example.resized.png
   :width: 100
   :alt: Bias correction example
