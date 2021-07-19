@@ -1,7 +1,7 @@
 .. image:: img/liquorice_logo.png
   :width: 300
   :alt: LIQUORICE logo
-  
+  :align: center
   
 Thank you for your interest in LIQUORICE!
 
