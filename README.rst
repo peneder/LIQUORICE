@@ -96,6 +96,10 @@ Contact
 ========
 If you have any questions about ``LIQUORICE`` and how to apply it to your data, create an issue or contact peter.peneder@ccri.at - we are happy to hear from you.
 
+Credits
+=======
+The liquorice icon in the logo was made by `Nikita Golubev <https://www.flaticon.com/authors/nikita-golubev>`_  from `Flaticon <https://www.flaticon.com>`_.
+
 Citation
 ========
 
