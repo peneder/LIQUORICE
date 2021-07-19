@@ -65,15 +65,15 @@ Here are a few examples of ``LIQUORICE``'s output:
 
 <img src='img/bias_correction_example.png' width='25'>
 
-.. image:: img/bias_correction_example.png
+.. image:: img/bias_correction_example.resized.png
   :width: 100
   :alt: Bias correction example
 
-.. image:: img/fitted_gaussians_example.png
+.. image:: img/fitted_gaussians_example.resized.png
   :width: 100
   :alt: Model fitting example
 
-.. image:: img/overlay_plot_example.png
+.. image:: img/overlay_plot_example.resized.png
   :width: 100
   :alt: Overlay plot / Multi-sample summary example
 
