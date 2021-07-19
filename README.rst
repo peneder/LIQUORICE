@@ -1,3 +1,8 @@
+.. image:: img/liquorice_logo.png
+  :width: 300
+  :alt: LIQUORICE logo
+  
+  
 Thank you for your interest in LIQUORICE!
 
 Introduction
