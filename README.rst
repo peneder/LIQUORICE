@@ -63,15 +63,15 @@ We are currently still optimizing some parameters, other than that the new versi
 
 Here are a few examples of ``LIQUORICE``'s output:
 
-.. image:: img/bias_correction_example.resized.png
+.. image:: img/bias_correction_example.png
   :width: 100
   :alt: Bias correction example
 
-.. image:: img/fitted_gaussians_example.resized.png
+.. image:: img/fitted_gaussians_example.png
   :width: 100
   :alt: Model fitting example
 
-.. image:: img/overlay_plot_example.resized.png
+.. image:: img/overlay_plot_example.png
   :width: 100
   :alt: Overlay plot / Multi-sample summary example
 
