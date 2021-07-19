@@ -9,6 +9,10 @@ tissue or cancer-specific epigenetic signatures in liquid biopsies. This allows 
 fraction of tumor-derived cell-free DNA, `as demonstrated in our recent publication <https://doi.org/10.1038/s41467-021-23445-w>`_.
 
 
+.. image:: img/LIQUORICE_new_workflow.png
+  :width: 300
+  :alt: LIQUORICE's workflow 
+
 Motivation
 **********
 
