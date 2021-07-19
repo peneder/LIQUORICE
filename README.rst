@@ -46,8 +46,8 @@ Useful ressources to obtain such region-sets include `https://dnase.genome.duke.
 
 How to use ``LIQUORICE``
 ************************
-The first version of ``LIQUORICE`` is described `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/code/figure5/figure5.html>`_
-and available for download `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/code/figure5/>`_.
+The first version of ``LIQUORICE`` is described `in our publication <https://doi.org/10.1038/s41467-021-23445-w>` and `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/code/figure5/figure5.html>`_
+and is available for download `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/code/figure5/>`_.
 You can find the instructions for setting up the appropriate conda environment `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/#code>`_.
 
 **We are currently working on a new, improved version of LIQUORICE.** It will be available shortly and will have several advantages over the previous version:
