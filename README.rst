@@ -49,7 +49,8 @@ Useful ressources to obtain such region-sets include `http://dnase.genome.duke.e
 
 
 How to use ``LIQUORICE``
-************************
+========================
+
 The first version of ``LIQUORICE`` is described `in our publication <https://doi.org/10.1038/s41467-021-23445-w>`_ and `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/code/figure5/figure5.html>`_
 and is available for download `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/code/figure5/>`_.
 You can find the instructions for setting up the appropriate conda environment `here <https://medical-epigenomics.org/papers/peneder2020_f17c4e3befc643ffbb31e69f43630748/#code>`_.
@@ -82,7 +83,7 @@ Here are a few examples of ``LIQUORICE``'s output:
 
 
 Potential application areas
-***************************
+===========================
 
 ``LIQUORICE`` could be useful for a variety of cfDNA-related analysis tasks:
 
