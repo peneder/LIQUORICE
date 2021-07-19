@@ -44,7 +44,7 @@ Region-sets
 
 In the context of ``LIQUORICE``, we refer to a region-set as a set of genomic regions with similar properties. This
 could be, e.g., enhancers or DNaseI-hypersensitivity sites that are specific for a cell-type, cancer-type, or tissue.
-Useful ressources to obtain such region-sets include `https://dnase.genome.duke.edu/ <https://dnase.genome.duke
+Useful ressources to obtain such region-sets include `http://dnase.genome.duke.edu/ <https://dnase.genome.duke
 .edu/>`_ and `ENCODE <https://www.encodeproject.org/>`_.
 
 
